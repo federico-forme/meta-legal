@@ -1,2 +1,2 @@
-# meta-legal
+# Metadata Extractor
 Terms, conditions and privacy policy of Metadata Extractor. Last updated: 
